@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arashrefai
+- 👋 Hi, I’m arashrefai
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning Bioinformatic
 - 💞️ I’m looking to collaborate on design software on Bioinformatic
