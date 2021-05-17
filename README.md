@@ -1,6 +1,6 @@
 - 👋 Hi, I’m arashrefai
 - 👀 I’m enthusiastic in Data Science and Data Engineering
-- 🌱 I’m currently learning Biodata Engineering which i am combining data with biological molecules to get productive results.
+- 🌱 I’m currently learning Bioinfo Engineering .
 - 💞️ I’m looking to collaborate on design software on biodata.
 - 📫 How to reach me you may email me at Arashrefaie@gmail.com
 
